@@ -1,5 +1,5 @@
 {
-  "name": "fofx-mongodb",
+  "name": "@fofx/mongodb",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:functzia/fofx-mongodb.git",
